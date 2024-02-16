@@ -1,0 +1,20 @@
+[
+  {
+    "name": "car",
+    "price": "35000",
+    "type": "0",
+    "amount": "25"
+  },
+  {
+    "name": "kitchen",
+    "price": "50000",
+    "type": "1",
+    "amount": "5"
+  },
+  {
+    "name": "ball",
+    "price": "20000",
+    "type": "2",
+    "amount": "56"
+  }
+]
